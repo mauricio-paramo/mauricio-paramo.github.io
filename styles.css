@@ -192,6 +192,7 @@ Profile Sidebar Column
   grid-area: sidebar;
   margin-left: 27px;
   width: 300px;
+  margin-bottom: 24px;
 }
 
 h1 {
@@ -404,7 +405,7 @@ Schools
 }
 
 .schools ul {
-  margin-bottom: 24px;
+  margin-bottom: 2em;
 }
 
 /*
