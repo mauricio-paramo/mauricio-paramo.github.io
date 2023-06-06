@@ -192,7 +192,7 @@ Profile Sidebar Column
   grid-area: sidebar;
   margin-left: 27px;
   width: 300px;
-  margin-bottom: 24px;
+  margin-bottom: 13px;
 }
 
 h1 {
@@ -265,7 +265,7 @@ Music Box
 ========================================
 */
 .music-box {
-  margin-bottom: 24px;
+  margin-bottom: 13px;
 }
 
 /*
@@ -277,7 +277,7 @@ Contact Box
   border: 2px solid rgb(102, 153, 204);
   height: 66px;
   width: 300px;
-  margin-bottom: 24px;
+  margin-bottom: 13px;
 }
 
 .contact-box h2 {
@@ -384,7 +384,7 @@ Details
 ========================================
 */
 .details table {
-  margin-bottom: 22px;
+  margin-bottom: 13px;
 }
 
 /*
